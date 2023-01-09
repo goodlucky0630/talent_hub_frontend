@@ -1,0 +1,2 @@
+export const HIDE_MESSAGE = 'TH.HIDE_MESSAGE'
+export const SHOW_MESSAGE = 'TH.SHOW_MESSAGE'
